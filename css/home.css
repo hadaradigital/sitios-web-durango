@@ -1,5 +1,5 @@
 /* ===========================
-   NovaWeb Studio - styles.css
+   Sitios Web Durango - styles.css
    =========================== */
 
 *{
@@ -106,6 +106,10 @@ nav ul li a:hover{
 .btn-secondary:hover{
     background:#38bdf8;
     color:#fff;
+}
+
+.logo span {
+    color: #7a9550;
 }
 
 /* ================= HERO ================= */
